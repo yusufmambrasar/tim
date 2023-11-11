@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717049642092",
+    "project_id": "timotius-uchupxsolution",
+    "storage_bucket": "timotius-uchupxsolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717049642092:android:a190dae7af976769132c49",
+        "android_client_info": {
+          "package_name": "com.example.timotius"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqj4-cBLC2ukaUHyhVWfVUo8Q43VG6lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
